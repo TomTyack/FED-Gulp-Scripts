@@ -1,0 +1,19 @@
+{
+  "name": "criticalsample",
+  "version": "1.0.0",
+  "description": "A sample crtical script",
+  "main": "gulpfile.js",
+  "dependencies": {
+    "critical": "^1.2.0"
+  },
+  "devDependencies": {
+    "critical": "^1.2.0",
+    "gulp": "^3.9.1",
+    "run-sequence": "^2.2.1"
+  },
+  "scripts": {
+    "test": "gulp"
+  },
+  "author": "TomTyack",
+  "license": "ISC"
+}
